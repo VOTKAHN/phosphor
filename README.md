@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
